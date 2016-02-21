@@ -14,7 +14,6 @@ Maven's `shade` plugin helps to create an 'uberjar'.
 
     $ mvn clean package
     $ java -cp target/mvn-project-0.1.0-SNAPSHOT.jar mvn_project.core
-    $ java -jar mvn-project-0.1.0-standalone.jar [args]
 
 ## License
 
